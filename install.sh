@@ -1,0 +1,1 @@
+sudo apt-get install emacs nginx python-dev python-setuptools git-core libpq-dev
