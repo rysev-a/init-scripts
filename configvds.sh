@@ -5,7 +5,7 @@ dpkg-reconfigure locales
 update-locale LANG=ru_RU.UTF-8
 apt-get update
 apt-get upgrade
-apt-get install gcc memcached python-profiler python-setuptools libpq-dev git-core python-dev supervisor nginx postgresql nano emacs sudo
+apt-get install gcc memcached python-profiler python-setuptools libpq-dev git-core python-dev supervisor nginx postgresql nano emacs libtiff5-dev sudo
 easy_install virtualenv
 echo "Введите имя пользователя"
 read user
